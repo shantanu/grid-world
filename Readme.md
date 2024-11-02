@@ -12,6 +12,8 @@ docker compose up
 
 # Introduction
 
+[Notion Blog Link](https://harmless-resistance-e28.notion.site/Grid-World-Policy-Iteration-1324b68d0c408093beacce15f8c0d6a0?pvs=74)
+
 The most basic Dynamic Programming application is Gridworld.
 
 
